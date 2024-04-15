@@ -6,7 +6,10 @@ Welcome to my HTML and CSS login page project!
 
 This project features a simple login page created using HTML and CSS. It provides a user-friendly interface for users to log in to their accounts.
 
+## Preview
+![Login Page Preview](Screenshot.png)
 ## Features
+
 
 - **User Authentication:** Users can enter their username and password to log in.
 - **Responsive Design:** The login page is designed to adapt to various screen sizes, ensuring a seamless user experience across devices.
