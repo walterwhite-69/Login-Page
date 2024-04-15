@@ -1,0 +1,124 @@
+*{
+    font-family: "Karla", sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    background: url(bca19096a0def30ba652264dbce98d88.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.wrapper{
+    
+    border: 2px solid rgba(0,0,0,0.2);
+    background: transparent;
+    backdrop-filter: blur(2px );
+    color: white !important;
+    width: 540px !important;
+    padding: 20px;
+    border-radius: 12px;
+    padding: 20px 30px;
+
+}
+.wrapper h1{
+    font-size: 36px;
+    text-align: center;
+
+
+
+}
+.input-box{
+    overflow: initial;
+    
+}
+
+.wrapper .input-box{
+    position: relative;
+    width: 100% !important;
+    height: 50px !important;
+    margin: 30px 0;
+    
+}
+.input-box input{
+    width: 100% !important;
+    height: 100% !important;
+    background: transparent !important;
+    border: none;
+    outline: none;
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-radius: 40px;
+    font-size: 16px;
+    color: white;
+    padding: 0px 0px 0px 10px;
+    
+    
+
+}
+
+.input-box input::placeholder{
+    color: white;
+}
+.input-box i{
+    position: absolute;
+    right: -20px;
+    top: 30%;
+    transform: translate(-50px);
+    font-size: 20px;
+}
+
+.wrapper .remember-forgot{
+    display: flex;
+    justify-content: space-between;
+    margin: -15px 0 15px;
+    font-size: 14.5px;
+}
+
+.remember-forgot label input{
+    accent-color: white;
+    margin-right: 2px;
+}
+
+.remember-forgot a{
+    color: white;
+    text-decoration: none !important;
+}
+
+.remember-forgot a:hover{
+    text-decoration: underline !important;
+}
+
+.wrapper .btn{
+    width: 100%;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 20px rebeccapurple ;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 650;
+    color: hsl(0, 9%, 17%);
+
+}
+
+.wrapper .register-link{
+    font-size: 16.5px;
+    text-align: center !important;
+    margin: 20px 0 15px ;
+}
+
+.register-link p a{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.register-link p a:hover{
+    text-decoration: underline;
+}
