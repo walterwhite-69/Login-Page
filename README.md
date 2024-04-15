@@ -22,9 +22,6 @@ This project features a simple login page created using HTML and CSS. It provide
 
 Pull requests and feedback are welcome! If you have any suggestions for improvements or feature requests, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## How does it works
 Ofcourse its not gonna work if you click login because its just a showcase of my project. Also it doesnt have any javascript functionality
