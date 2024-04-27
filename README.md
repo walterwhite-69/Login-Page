@@ -17,7 +17,7 @@ This project features a simple login page created using HTML and CSS. It provide
 ## Usage
 
 1. Clone or download this repository to your computer.
-2. Open the `index1.html` file in your web browser.
+2. Open the `index.html` file in your web browser.
 3. Enter your username and password to log in.
 
 
